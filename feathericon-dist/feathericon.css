@@ -1,0 +1,110 @@
+@font-face {
+    font-family: "feathericon";
+    src: url("./feathericon.eot?1efacce3af162f6bac09595a616758c6?#iefix") format("embedded-opentype"),
+url("./feathericon.woff2?1efacce3af162f6bac09595a616758c6") format("woff2"),
+url("./feathericon.woff?1efacce3af162f6bac09595a616758c6") format("woff"),
+url("./feathericon.ttf?1efacce3af162f6bac09595a616758c6") format("truetype"),
+url("./feathericon.svg?1efacce3af162f6bac09595a616758c6#feathericon") format("svg");
+}
+
+i[class^="feathericon-"]:before, i[class*=" feathericon-"]:before {
+    font-family: feathericon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.feathericon-activity:before {
+    content: "\f101";
+}
+.feathericon-airplay:before {
+    content: "\f102";
+}
+.feathericon-alert-circle:before {
+    content: "\f103";
+}
+.feathericon-alert-octagon:before {
+    content: "\f104";
+}
+.feathericon-alert-triangle:before {
+    content: "\f105";
+}
+.feathericon-align-center:before {
+    content: "\f106";
+}
+.feathericon-align-justify:before {
+    content: "\f107";
+}
+.feathericon-align-left:before {
+    content: "\f108";
+}
+.feathericon-align-right:before {
+    content: "\f109";
+}
+.feathericon-anchor:before {
+    content: "\f10a";
+}
+.feathericon-aperture:before {
+    content: "\f10b";
+}
+.feathericon-archive:before {
+    content: "\f10c";
+}
+.feathericon-arrow-down-circle:before {
+    content: "\f10d";
+}
+.feathericon-arrow-down-left:before {
+    content: "\f10e";
+}
+.feathericon-arrow-down-right:before {
+    content: "\f10f";
+}
+.feathericon-arrow-down:before {
+    content: "\f110";
+}
+.feathericon-arrow-left-circle:before {
+    content: "\f111";
+}
+.feathericon-arrow-left:before {
+    content: "\f112";
+}
+.feathericon-arrow-right-circle:before {
+    content: "\f113";
+}
+.feathericon-arrow-right:before {
+    content: "\f114";
+}
+.feathericon-arrow-up-circle:before {
+    content: "\f115";
+}
+.feathericon-arrow-up-left:before {
+    content: "\f116";
+}
+.feathericon-arrow-up-right:before {
+    content: "\f117";
+}
+.feathericon-arrow-up:before {
+    content: "\f118";
+}
+.feathericon-at-sign:before {
+    content: "\f119";
+}
+.feathericon-award:before {
+    content: "\f11a";
+}
+.feathericon-bar-chart-2:before {
+    content: "\f11b";
+}
+.feathericon-bar-chart:before {
+    content: "\f11c";
+}
+.feathericon-battery-charging:before {
+    content: "\f11d";
+}
+.feathericon-battery:before {
+    content: "\f11e";
+}

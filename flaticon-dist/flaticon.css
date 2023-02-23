@@ -1,0 +1,110 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("./flaticon.eot?bfe92d2f305f9474d1b773e6a9077e3a?#iefix") format("embedded-opentype"),
+url("./flaticon.woff2?bfe92d2f305f9474d1b773e6a9077e3a") format("woff2"),
+url("./flaticon.woff?bfe92d2f305f9474d1b773e6a9077e3a") format("woff"),
+url("./flaticon.ttf?bfe92d2f305f9474d1b773e6a9077e3a") format("truetype"),
+url("./flaticon.svg?bfe92d2f305f9474d1b773e6a9077e3a#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-add-document:before {
+    content: "\f101";
+}
+.flaticon-add:before {
+    content: "\f102";
+}
+.flaticon-alarm-clock:before {
+    content: "\f103";
+}
+.flaticon-apps-sort:before {
+    content: "\f104";
+}
+.flaticon-apps:before {
+    content: "\f105";
+}
+.flaticon-badge-check:before {
+    content: "\f106";
+}
+.flaticon-badge:before {
+    content: "\f107";
+}
+.flaticon-bank:before {
+    content: "\f108";
+}
+.flaticon-bell:before {
+    content: "\f109";
+}
+.flaticon-bookmark:before {
+    content: "\f10a";
+}
+.flaticon-bulb:before {
+    content: "\f10b";
+}
+.flaticon-comment:before {
+    content: "\f10c";
+}
+.flaticon-cross:before {
+    content: "\f10d";
+}
+.flaticon-envelope:before {
+    content: "\f10e";
+}
+.flaticon-following:before {
+    content: "\f10f";
+}
+.flaticon-graduation-cap:before {
+    content: "\f110";
+}
+.flaticon-hastag:before {
+    content: "\f111";
+}
+.flaticon-heart:before {
+    content: "\f112";
+}
+.flaticon-home:before {
+    content: "\f113";
+}
+.flaticon-interrogation:before {
+    content: "\f114";
+}
+.flaticon-list-check:before {
+    content: "\f115";
+}
+.flaticon-list:before {
+    content: "\f116";
+}
+.flaticon-marker:before {
+    content: "\f117";
+}
+.flaticon-play:before {
+    content: "\f118";
+}
+.flaticon-refresh:before {
+    content: "\f119";
+}
+.flaticon-settings:before {
+    content: "\f11a";
+}
+.flaticon-shopping-cart:before {
+    content: "\f11b";
+}
+.flaticon-stats:before {
+    content: "\f11c";
+}
+.flaticon-user:before {
+    content: "\f11d";
+}
+.flaticon-users-alt:before {
+    content: "\f11e";
+}

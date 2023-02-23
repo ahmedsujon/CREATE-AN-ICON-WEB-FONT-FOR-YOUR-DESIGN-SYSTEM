@@ -1,0 +1,35 @@
+@font-face {
+    font-family: "hugeiconspro";
+    src: url("./hugeiconspro.eot?e50e47dee65e2c369d43017c062fb2fd?#iefix") format("embedded-opentype"),
+url("./hugeiconspro.woff2?e50e47dee65e2c369d43017c062fb2fd") format("woff2"),
+url("./hugeiconspro.woff?e50e47dee65e2c369d43017c062fb2fd") format("woff"),
+url("./hugeiconspro.ttf?e50e47dee65e2c369d43017c062fb2fd") format("truetype"),
+url("./hugeiconspro.svg?e50e47dee65e2c369d43017c062fb2fd#hugeiconspro") format("svg");
+}
+
+i[class^="hugeicons-"]:before, i[class*=" hugeicons-"]:before {
+    font-family: hugeiconspro !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.hugeicons-add circle-half-dot:before {
+    content: "\f101";
+}
+.hugeicons-add-01:before {
+    content: "\f102";
+}
+.hugeicons-add-02:before {
+    content: "\f103";
+}
+.hugeicons-add-circle:before {
+    content: "\f104";
+}
+.hugeicons-add-square:before {
+    content: "\f105";
+}

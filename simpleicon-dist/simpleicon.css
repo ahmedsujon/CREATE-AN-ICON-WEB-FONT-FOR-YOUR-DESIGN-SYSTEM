@@ -1,0 +1,101 @@
+@font-face {
+    font-family: "simpleicon";
+    src: url("./simpleicon.eot?fb3e2a63ea70987df8c5596d0cc74977?#iefix") format("embedded-opentype"),
+url("./simpleicon.woff2?fb3e2a63ea70987df8c5596d0cc74977") format("woff2"),
+url("./simpleicon.woff?fb3e2a63ea70987df8c5596d0cc74977") format("woff"),
+url("./simpleicon.ttf?fb3e2a63ea70987df8c5596d0cc74977") format("truetype"),
+url("./simpleicon.svg?fb3e2a63ea70987df8c5596d0cc74977#simpleicon") format("svg");
+}
+
+i[class^="simpleicon-"]:before, i[class*=" simpleicon-"]:before {
+    font-family: simpleicon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.simpleicon-42:before {
+    content: "\f104";
+}
+.simpleicon-1001tracklists:before {
+    content: "\f101";
+}
+.simpleicon-1password:before {
+    content: "\f102";
+}
+.simpleicon-3m:before {
+    content: "\f103";
+}
+.simpleicon-4chan:before {
+    content: "\f105";
+}
+.simpleicon-4d:before {
+    content: "\f106";
+}
+.simpleicon-500px:before {
+    content: "\f107";
+}
+.simpleicon-abbott:before {
+    content: "\f108";
+}
+.simpleicon-abbvie:before {
+    content: "\f109";
+}
+.simpleicon-abletonlive:before {
+    content: "\f10a";
+}
+.simpleicon-aboutdotme:before {
+    content: "\f10b";
+}
+.simpleicon-academia:before {
+    content: "\f10c";
+}
+.simpleicon-accenture:before {
+    content: "\f10d";
+}
+.simpleicon-acclaim:before {
+    content: "\f10e";
+}
+.simpleicon-accusoft:before {
+    content: "\f10f";
+}
+.simpleicon-acer:before {
+    content: "\f110";
+}
+.simpleicon-acm:before {
+    content: "\f111";
+}
+.simpleicon-actigraph:before {
+    content: "\f112";
+}
+.simpleicon-activision:before {
+    content: "\f113";
+}
+.simpleicon-adafruit:before {
+    content: "\f114";
+}
+.simpleicon-adblock:before {
+    content: "\f115";
+}
+.simpleicon-adblockplus:before {
+    content: "\f116";
+}
+.simpleicon-addthis:before {
+    content: "\f117";
+}
+.simpleicon-adguard:before {
+    content: "\f118";
+}
+.simpleicon-adminer:before {
+    content: "\f119";
+}
+.simpleicon-adobe:before {
+    content: "\f11a";
+}
+.simpleicon-adobeacrobatreader:before {
+    content: "\f11b";
+}

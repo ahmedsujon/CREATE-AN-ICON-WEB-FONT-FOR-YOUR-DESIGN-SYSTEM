@@ -1,0 +1,92 @@
+@font-face {
+    font-family: "lineicon";
+    src: url("./lineicon.eot?6592270111462ea1d70ec1e6b2c9e67b?#iefix") format("embedded-opentype"),
+url("./lineicon.woff2?6592270111462ea1d70ec1e6b2c9e67b") format("woff2"),
+url("./lineicon.woff?6592270111462ea1d70ec1e6b2c9e67b") format("woff"),
+url("./lineicon.ttf?6592270111462ea1d70ec1e6b2c9e67b") format("truetype"),
+url("./lineicon.svg?6592270111462ea1d70ec1e6b2c9e67b#lineicon") format("svg");
+}
+
+i[class^="lineicon-"]:before, i[class*=" lineicon-"]:before {
+    font-family: lineicon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.lineicon-arrow-left:before {
+    content: "\f101";
+}
+.lineicon-checkmark:before {
+    content: "\f102";
+}
+.lineicon-chef-hat:before {
+    content: "\f103";
+}
+.lineicon-circle-plus:before {
+    content: "\f104";
+}
+.lineicon-eye:before {
+    content: "\f105";
+}
+.lineicon-first-aid:before {
+    content: "\f106";
+}
+.lineicon-flag-alt:before {
+    content: "\f107";
+}
+.lineicon-harddrive:before {
+    content: "\f108";
+}
+.lineicon-instagram-fill:before {
+    content: "\f109";
+}
+.lineicon-investment:before {
+    content: "\f10a";
+}
+.lineicon-joomla-original:before {
+    content: "\f10b";
+}
+.lineicon-magento:before {
+    content: "\f10c";
+}
+.lineicon-map:before {
+    content: "\f10d";
+}
+.lineicon-paypal:before {
+    content: "\f10e";
+}
+.lineicon-revenue:before {
+    content: "\f10f";
+}
+.lineicon-save:before {
+    content: "\f110";
+}
+.lineicon-spellcheck:before {
+    content: "\f111";
+}
+.lineicon-spinner-arrow:before {
+    content: "\f112";
+}
+.lineicon-tounge:before {
+    content: "\f113";
+}
+.lineicon-toyota:before {
+    content: "\f114";
+}
+.lineicon-vmware:before {
+    content: "\f115";
+}
+.lineicon-volume-low:before {
+    content: "\f116";
+}
+.lineicon-wordpress-fill:before {
+    content: "\f117";
+}
+.lineicon-zoom:before {
+    content: "\f118";
+}
